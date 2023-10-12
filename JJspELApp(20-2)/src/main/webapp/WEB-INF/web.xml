@@ -1,0 +1,11 @@
+<web-app>
+<display-name>JJspELApp(20-2)</display-name>
+<context-param>
+<param-name>user</param-name>
+<param-value>root</param-value>
+</context-param>
+<context-param>
+<param-name>password</param-name>
+<param-value>root123</param-value>
+</context-param>
+</web-app>
